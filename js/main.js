@@ -14,9 +14,9 @@
       slug: 'rhenjie-guarin', active: true, verified: true,
       name: 'Rhenjie Guarin', title: 'Sales Consultant', company: 'Suzuki Auto Pangasinan',
       tagline: '',
-      location: 'Calasiao Pangasinan', photo: '/images/profile-picture.jpg',
+      location: '153 Judge Jose de Venecia Ave, Calasiao, 2400 Pangasinan', photo: '/images/profile-picture.jpg',
       phone: '+63 956 574 2290', messenger: 'https://www.messenger.com/t/101146524698616', email: 'rhenjieguarin123@gmail.com', website: 'https://example.com',
-      address: 'Judge jose Devenecia highway Calasiao Pangasinan',
+      address: '153 Judge Jose de Venecia Ave, Calasiao, 2400 Pangasinan',
       hours: [['Mon-Saturday', '8:30-5:30 PM'], ['Sunday', 'Closed']],
       social: { facebook: 'https://facebook.com/', instagram: 'https://instagram.com/', tiktok: 'https://tiktok.com/' },
       about: {
